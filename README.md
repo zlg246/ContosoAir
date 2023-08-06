@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/lgzhang0207/lgzhang/_apis/build/status%2Fzlg246.ContosoAir?branchName=master)](https://dev.azure.com/lgzhang0207/lgzhang/_build/latest?definitionId=2&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
